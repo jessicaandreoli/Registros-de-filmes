@@ -25,7 +25,7 @@ Ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de pacotes np
 Você pode executar o seguinte comando:
 - npm install
 
-Em seguida rodar a aplicação, basta executar o comando abaixo:
+Em seguida para rodar a aplicação, basta executar o comando abaixo:
 - npm run dev
 
 Você pode usar o Insominia para testar toda a aplicação, que permite:
@@ -39,9 +39,9 @@ Você pode usar o Insominia para testar toda a aplicação, que permite:
 
 Você pode visualizar a estrutura do projeto na imagem abaixo:
 
-- [Imagem](src/assets/fluxo-aplicacao.png)
+<img align="center" src="src/assets/fluxo-aplicacao.png">
 
 
 <p align="center">
-  Feito com 💜 por Jessicaandreoli
+  Feito com 💜 por Jessica Andreoli
 </p>
