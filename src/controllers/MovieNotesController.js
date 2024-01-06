@@ -21,8 +21,8 @@ class MovieNotesController {
       };
     });
 
-    console.log(tagsInsert);
     await knex("movieTags").insert(tagsInsert);
+    console.log(tagsInsert);
 
     response.json();
   }
@@ -43,6 +43,7 @@ class MovieNotesController {
     });
   }
 
+  //método para deletar
   async delete(request, response) {
     const { id } = request.params;
 
